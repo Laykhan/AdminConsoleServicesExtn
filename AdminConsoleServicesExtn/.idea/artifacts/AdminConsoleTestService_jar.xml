@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AdminConsoleTestService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdminConsoleTestService_jar</output-path>
+    <root id="archive" name="AdminConsoleTestService.jar">
+      <element id="module-output" name="AdminConsoleTestService" />
+    </root>
+  </artifact>
+</component>
